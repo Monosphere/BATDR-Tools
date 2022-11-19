@@ -5,3 +5,6 @@ Tools for Bendy And The Dark Revival.
 V - Vclip
 
 PRESS ESC TO OPEN UP THE MENU WHERE YOU CAN USE THE TOOLS.
+
+Bendy Modding Server
+https://discord.gg/TgmnbNgyqN
